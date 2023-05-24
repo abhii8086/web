@@ -1,0 +1,26 @@
+* {
+    border: 1px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+    text-align: end;
+    padding: 30px;
+    background: black;
+    color: white;
+    
+}
+
+
+li {
+    display: inline;
+    padding: 20px;
+}
+
+li:hover {
+    color: brown;
+    cursor: pointer;
+}
